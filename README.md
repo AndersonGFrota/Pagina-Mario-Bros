@@ -1,4 +1,4 @@
-Pagina de Contato Prestador ded servico
+Pagina de Contato Prestador de servico
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/AndersonGFrota/converso-de-moedas/blob/main/LICENSE) 
 
