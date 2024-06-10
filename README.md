@@ -15,9 +15,11 @@ A aplicação consiste numa página onde o cliente pode ver os serviços dispon�
 # Tecnologias utilizadas
 
 ## Front end
-- HTML 
-- CSS
-- JAVA SCRIPT  
+- Html
+- Css
+- JavaScript 
+
+ 
 
 
 
